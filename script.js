@@ -15,6 +15,16 @@ const poems = [
 		image: 'bee.jpeg'
 	},
 	{
+		author: 'Justin',
+		poem: 'Roses are red \n Violets are blue \n Sugar is sweet, \n And so are you',
+		image: 'justin-image.jpg'
+	},
+	{
+		author: 'Sony',
+		poem: 'Roses are red \n Violets are blue \n The ocean is vast \n Its depths know no bounds',
+		image: 'ocean.jpeg'
+	},
+	{
 		author: 'Daniel',
 		poem: 'Roses are red \n so is the rope \n now can you guess \n what colour is the soap?',
 		image: 'soap-on-a-rope.jpeg'
