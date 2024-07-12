@@ -18,7 +18,12 @@ const poems = [
     author: "Justin",
     poem: "Roses are red \n Violets are blue \n Sugar is sweet, \n And so are you",
     image: "justin-image.jpg"
-  }  
+  },
+  {
+    author: "Sony",
+    poem: "Roses are red \n Violets are blue \n The ocean is vast \n Its depths know no bounds",
+    image: "ocean.jpeg",
+  }, 
 ];
 
 let displayPoems = (array) => {
